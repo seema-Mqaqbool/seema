@@ -15,7 +15,7 @@ I am an MS Computer Science graduate with research experience in **Computer Visi
 
 ## 🧠 Research Experience
 
-**Master's Thesis — EAR-Net: An Efficient Attention Residual Network for Skin Lesion Segmentation**
+**Master's Thesis — EAR-Net: An Enhanced Attention_Residual Network with spatial_ channnel recalibration for Skin Lesion Segmentation**
 
 My research focused on deep learning-based skin lesion segmentation using an attention-enhanced encoder-decoder architecture.
 
